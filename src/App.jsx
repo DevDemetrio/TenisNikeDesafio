@@ -2,7 +2,7 @@ import { styled } from "styled-components";
 import Banner from "./components/Banner";
 import EstilosGlobais from "./components/EstilosGlobais";
 import Header from "./components/Header";
-import bannerBackground from "./assets/Air-jordan.png";
+import bannerBackground from "./assets/Air-Jordan.png";
 import desktopBackground from "./assets/Air-Jordan-desktop.png";
 import Highlights from "./components/highlights";
 import phonto from "./img.json";
